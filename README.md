@@ -1,0 +1,3 @@
+So I have changed a few things but not much. You will notice that this configuation only works fine with the latest or 11+, anything less than that was failing. If your container failing with crashloopbackoff then just try different versions of the images. That should work.
+refer the following article for a detailed expanation.
+reference: https://severalnines.com/blog/using-kubernetes-deploy-postgresql
